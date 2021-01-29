@@ -9,7 +9,9 @@ I can only hope that I keep up with everything.
 This is the plan for the trip
 
 -[x]Matlab
+
 -[ ]Python
+
 -[ ]Javascript
 
 I already have some experience with Matlab but I can expand more on the knowlege by having projects that interest me. 
