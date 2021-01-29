@@ -7,6 +7,7 @@ This will be the start of something great with the hope of it eventually leading
 I can only hope that I keep up with everything.
 
 This is the plan for the trip
+
 -[x]Matlab
 -[ ]Python
 -[ ]Javascript
